@@ -20,6 +20,16 @@ In jpseditor there are three areas:
 
 ![jpseditor layout]({{ site.base }}/images/jpseditor_surface.png)
 
+## Importing DXF files
+
+JPSeditor can import geomtries as DXF files.
+It is possible to select specific layers to import as shown in the following figure
+
+![]({{ site.base }}/images/select_layers.jpg)
+
+
+
+
 ## Tutorials 
 - [Tutorial - part 1](https://youtu.be/fk4IgG1Mg4U)
 - [Tutorial - part 2](https://youtu.be/B8sPswlcOT8)
